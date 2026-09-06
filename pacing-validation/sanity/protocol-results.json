@@ -1,0 +1,22 @@
+[
+  {
+    "gso": "off",
+    "exit_code": 0,
+    "tests": [
+      "h3_congestion_ack.t",
+      "h3_pacing_bulk.t",
+      "h3_keepalive.t",
+      "quic_migration.t"
+    ]
+  },
+  {
+    "gso": "on",
+    "exit_code": 0,
+    "tests": [
+      "h3_congestion_ack.t",
+      "h3_pacing_bulk.t",
+      "h3_keepalive.t",
+      "quic_migration.t"
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "name": "timer-unit",
+    "exit_code": 0,
+    "result": "PASS: 6729 checks, including 10,000 timers, wrap, cancellation, unit transitions, lifetime and expiry fairness"
+  },
+  {
+    "name": "pacing-unit",
+    "exit_code": 0,
+    "result": "PASS: 2152 deterministic checks (datagrams, GSO, ACK, rollback, timers, arithmetic)"
+  }
+]

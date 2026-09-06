@@ -1,0 +1,102 @@
+[
+  {
+    "file": "BENCHMARKS.md",
+    "bytes": 2831,
+    "sha256": "cf51de1f2e87c9e05afb7f9395853691ad277aabb4449a926fdd6eca42e6787e"
+  },
+  {
+    "file": "LOW-RTT-REPORT.md",
+    "bytes": 13108,
+    "sha256": "e39bf8470230aec8f9a5b506af43a0f881a9000eb9d6485378bcc0e85256d6cb"
+  },
+  {
+    "file": "NATIVE-CLIENT-REPORT.md",
+    "bytes": 6422,
+    "sha256": "4460e1ed1e90d8d0d3fa1011a92574682beaa95afcf4e705a14e7548cbc9c3c0"
+  },
+  {
+    "file": "README.md",
+    "bytes": 2030,
+    "sha256": "73373dc83a56c1a6dc965a6bbb14cbd300fffe573e75fb274cb981e8352772e5"
+  },
+  {
+    "file": "TIMING-REPORT.md",
+    "bytes": 13290,
+    "sha256": "cd0c37a158e1f10ffc3adb92452ce2a769775761ef4d7a28c8e23e3764fdd1c3"
+  },
+  {
+    "file": "bench.py",
+    "bytes": 17209,
+    "sha256": "a57298da21743256750edeb7a68afff0eb2c26f43fbc1aefb7a7ea93d783e4f3"
+  },
+  {
+    "file": "coarse-clock-unit.c",
+    "bytes": 796,
+    "sha256": "f36b4d633a7d79bd0a3c452c9b32fb468dd6149834dfc75a8a416d4b2a615925"
+  },
+  {
+    "file": "h3_pacing_bulk.t",
+    "bytes": 3299,
+    "sha256": "78651eb9b33037f9a33e45b17b8989151d57d65a910be118658e7aaff8b517ba"
+  },
+  {
+    "file": "low-rtt-findings.png",
+    "bytes": 149479,
+    "sha256": "dafa9b47084dc0fd09f1031ff220b56c613f06abef6123e9a31e306464df52c8"
+  },
+  {
+    "file": "measurement-summary.json",
+    "bytes": 36342,
+    "sha256": "4a2b8239267959de57cfead5c0525541fc1ad44a76887c411c810a529e213f89"
+  },
+  {
+    "file": "pacing-unit.c",
+    "bytes": 13050,
+    "sha256": "1bd6cf04824a72f8def34230ac5fd622191bf63f4fe3aa2f644cab3dbc284230"
+  },
+  {
+    "file": "run-unit.sh",
+    "bytes": 885,
+    "sha256": "282f2fe53371207a0bfe8339d4f71892546f0690eda4f6ba7bbaa6a1d347c1b4"
+  },
+  {
+    "file": "sanity/pacing-unit.log",
+    "bytes": 84,
+    "sha256": "51d875632afc856e1626de36609404412d6624c08cd16d9154bb7a40b1a35d63"
+  },
+  {
+    "file": "sanity/protocol-off.log",
+    "bytes": 1509,
+    "sha256": "3a19e709ba2d8b507538433f09b7f3fed9d5b6b92fd06c8495bb4749c64fad6f"
+  },
+  {
+    "file": "sanity/protocol-on.log",
+    "bytes": 1509,
+    "sha256": "ed665a93d9b1b4b326eca269c460f1c7bfed813858b4b3b4d2b844df37ca69d2"
+  },
+  {
+    "file": "sanity/protocol-results.json",
+    "bytes": 346,
+    "sha256": "c38ada5b89d8ceb6d9d972ffaf403b9af6cfc70ccf2784e0e514c034b375c5d1"
+  },
+  {
+    "file": "sanity/timer-unit.log",
+    "bytes": 111,
+    "sha256": "98ada889291611e50690594f03d21fe99293ff32faa2dd5bae043b5c0a499350"
+  },
+  {
+    "file": "sanity/unit-results.json",
+    "bytes": 341,
+    "sha256": "fb9939917d2926b17303da18204c1f3a213b5f0f896eea1dbb04a7730993ede7"
+  },
+  {
+    "file": "timer-probe.c",
+    "bytes": 7938,
+    "sha256": "94c9d7e2575e3998f5beed95da59f029ccfd67fc75c0934c2f7fe0746c058d0d"
+  },
+  {
+    "file": "timer-unit.c",
+    "bytes": 6374,
+    "sha256": "be3d27907a7cab0ebedbe7afb6f4bca783b77ff6319dbd9a40bb383462742f02"
+  }
+]
