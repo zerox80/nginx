@@ -98,7 +98,7 @@ the median of the per-run sampled medians. cwnd and rate are independently
 sampled medians, not a single synchronized synthetic state.
 
 | Variant | ACK RTT µs | Commit-to-ACK µs | Fine SRTT µs | avg_rtt ms | cwnd bytes | Actual rate bytes/ms | Requested wait µs |
-| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | stock | 193 | 185 | 192 | 2 | 232,323 | N/A | N/A |
 | ms10 | 67 | 59 | 65 | 2 | 16,762,938 | 16,762,938 | 1 |
 | us10 | 67 | 59 | 65 | 2 | 17,193,804 | 533,339,809 | 1 |
